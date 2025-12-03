@@ -1,0 +1,10 @@
+Overall accuracy: 95.7447%
+
+              precision    recall  f1-score   support
+
+       clean     0.9048    1.0000    0.9500        19
+       dirty     1.0000    0.9286    0.9630        28
+
+    accuracy                         0.9574        47
+   macro avg     0.9524    0.9643    0.9565        47
+weighted avg     0.9615    0.9574    0.9577        47
